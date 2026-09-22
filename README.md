@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to bind dynamic data sources to the Syncfusion Blazor DataGrid using both `DynamicObject` and `ExpandoObject` implementations. The primary sample uses a custom `OrderDetails` class that inherits from `DynamicObject`, enabling runtime member creation and retrieval without requiring a strongly typed model. The project also includes an alternative `ExpandoObject` implementation that can be used to generate grid data dynamically. This approach is useful when working with data structures whose schema is not known at compile time or may change dynamically at runtime.
+This sample demonstrates how to bind dynamic data sources to the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) using both `DynamicObject` and `ExpandoObject` implementations. The primary sample uses a custom `OrderDetails` class that inherits from `DynamicObject`, enabling runtime member creation and retrieval without requiring a strongly typed model. The project also includes an alternative `ExpandoObject` implementation that can be used to generate grid data dynamically. This approach is useful when working with data structures whose schema is not known at compile time or may change dynamically at runtime.
 
 ## Key Features
 
